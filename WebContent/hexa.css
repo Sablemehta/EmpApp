@@ -1,0 +1,73 @@
+/* css for header and footer */
+header, footer {
+	text-align: center;
+}
+
+header {
+	background: -webkit-linear-gradient(left, #4698c8, #dc322e, yellow, #4698c8, #dc322e
+		);
+	color: white;
+	text-shadow: 5px 5px 5px black;
+	font-family: cursive;
+	padding: 10px;
+}
+
+footer {
+	background-color: red;
+	padding: 10px;
+	color: white;
+	margin-top: 10px;
+}
+
+footer img {
+	height: 50px;
+	width: 50px;
+}
+/* css for main content */
+article {
+	min-height: 550px;
+}
+
+article h2 {
+	text-align: center;
+	color: red;
+}
+/* CSS for Links to look like a button */ 
+nav{
+	display:flex; 
+	margin:0px auto;
+	width:550px;
+	flex-wrap:wrap;
+}
+
+nav a div {
+	margin: 20px;
+	width: 200px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px black;
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+	text-align:center;
+}
+
+nav a {
+	text-decoration: none;
+	
+}
+
+nav a:hover {
+	background-color: #4698c8;
+}
+/* to display sucessful and error message */
+.success{
+	color:blue;
+}
+
+.err{
+	color:red;
+}
+
+
+
+

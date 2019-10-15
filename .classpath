@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/hibernate-core-5.0.11.Final.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/hibernate-entitymanager-5.0.11.Final.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/jstl.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/jta.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/mysql-connector-java-3.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-aop-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-beans-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-context-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-core-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-data-commons-1.7.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-data-jpa-1.5.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-expression-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-jdbc-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-orm-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-security-config-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-security-core-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-security-web-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-tx-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-web-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/spring-webmvc-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//172.25.228.144/share/Jar files/springlib/standard.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/javax.servlet.jar/javax.servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
